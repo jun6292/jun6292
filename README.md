@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Comming%20Soon%20...&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요%20Hello%20こんにちは%20Hola%20Bonjour%20Здравствуйте%20Hallo%20नमस्ते%20สวัสดีครับ%20Buongiorno&fontSize=18)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjun6292&count_bg=%2310D5D7&title_bg=%230014FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
