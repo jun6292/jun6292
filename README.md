@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - CKA(Certified Kubernetes Administrator)
 -->
 
-### ✏️ I have studied & I can use
+### ✏ I have studied & I can use
 <div align=center style="width:50%">
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -70,3 +70,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=black">
 
 -->
+<!-- 
+### 🪪 Certified
+<img src="https://github.com/cncf/artwork/raw/main/other/cka/color/kubernetes-cka-color.png" width="200" height="200" style="max-width: 100%;">
+
+- SQL Developer
+- 정보처리기사
+-->
+### Project
+https://apps.apple.com/kr/app/%ED%8C%9D%ED%95%80-%EB%A7%9E%EC%B6%A4%ED%98%95-%ED%8C%9D%EC%97%85-%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%B6%94%EC%B2%9C/id6482994685
+
