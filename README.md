@@ -20,7 +20,8 @@ Backend Developer
 -->
 
 ### 🥇 I can use 
-<div align=center style="width:50%">
+<!-- <div align=center style="width:50%"> -->
+<div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -35,7 +36,8 @@ Backend Developer
 </div>
 
 ### 🥈 I have studied
-<div align=center style="width:50%">
+<!-- <div align=center style="width:50%"> -->
+<div>
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -54,7 +56,8 @@ Backend Developer
 </div>
 
 ### 🗣️ tools & collaborate
-<div align=center style="width:50%">
+<!-- <div align=center style="width:50%"> -->
+<div>
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/intellijidea-E4003A?style=for-the-badge&logo=intellijidea&logoColor=white">
   <img src="https://img.shields.io/badge/datagrip-508C9B?style=for-the-badge&logo=datagrip&logoColor=white">
