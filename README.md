@@ -83,3 +83,6 @@ Backend Developer
 </div>
 <a href="https://apps.apple.com/kr/app/%ED%8C%9D%ED%95%80-%EB%A7%9E%EC%B6%A4%ED%98%95-%ED%8C%9D%EC%97%85-%EC%8A%A4%ED%86%A0%EC%96%B4-%EC%B6%94%EC%B2%9C/id6482994685" target="_blank" rel="noopener noreferrer"> 팝핀: 맞춤형 팝업 스토어 추천</a>  
 
+### 🔗 Link
+https://singularity7606.tistory.com
+
