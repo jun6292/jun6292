@@ -10,7 +10,7 @@
 Software Engineer
 </blockquote>
 
-
+- 동국대학교 컴퓨터공학과 (2019.03 ~ 2025.08)
 
 <!--
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jun6292&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) <br>
